@@ -11,6 +11,7 @@ public class first {
         hours=hours/60;
         int i=(hours<24)?hours:hours/60;
         System.out.printf("%d:%02d:%02d", i, minutes, S);
+        //new change
 
     }
 }
